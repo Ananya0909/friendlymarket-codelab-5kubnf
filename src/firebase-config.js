@@ -1,4 +1,4 @@
-const firebaseConfig = {
+var firebaseConfig = {
   apiKey: "AIzaSyAmeITV3Z6V8aDFkBIgIXSsdOC8-QMftgk",
   authDomain: "friendlymarket-8cb00.firebaseapp.com",
   databaseURL: "https://friendlymarket-8cb00-default-rtdb.firebaseio.com",
